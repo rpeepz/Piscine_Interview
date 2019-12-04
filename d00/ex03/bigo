@@ -1,0 +1,3 @@
+O(1) time. O(n) worst-case behavior (for insertion and search), n being the number of elements to search
+O(n) space. O(n^2) worst-case behavoir
+#uniform distribution will reduce worst-case

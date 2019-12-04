@@ -1,0 +1,2 @@
+O(n) time, n being the total number of elements to search
+O(1) space

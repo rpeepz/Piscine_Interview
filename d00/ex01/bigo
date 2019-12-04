@@ -1,0 +1,2 @@
+O(n(log n)) time. O(n^2) worst-case behavior, n being number of elements to search
+O(log n) space

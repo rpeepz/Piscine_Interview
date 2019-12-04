@@ -1,0 +1,2 @@
+O(n) time, n being the number of characters in the text
+O(1) space
