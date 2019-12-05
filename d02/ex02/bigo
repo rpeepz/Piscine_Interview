@@ -1,0 +1,2 @@
+O(n log(n)) time. O(n^2) worst case, n being number of elements in array
+O(n) space
